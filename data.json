@@ -1,0 +1,52 @@
+[
+	{
+		"id": 101,
+		"firstName": "Robert",
+		"lastName": "Jackson",
+		"contactDetails": {
+			"email1": "jack@gmail.com",
+			"mobilePhone": "5058585252",
+			"phoneNumber": "1234795623"
+		},
+		"addressDetails": {
+			"addressLine1": "7M",
+			"addressLine2": "Naval Road",
+			"city": "Chennai",
+			"state": "Tamil nadu",
+			"zipcode": "603103"
+		}
+	},
+	{
+		"id": 102,
+		"firstName": "Dennie",
+		"lastName": "Jackson",
+		"contactDetails": {
+			"email1": "den@gmail.com",
+			"mobilePhone": "8858525222",
+			"phoneNumber": "1234795623"
+		},
+		"addressDetails": {
+			"addressLine1": "E.D.",
+			"addressLine2": "Moon Road",
+			"city": "Delhi",
+			"state": "Test",
+			"zipcode": "600200"
+		}
+	},
+		{
+		"id": 103,
+		"firstName": "John",
+		"lastName": "Due",
+		"contactDetails": {
+			"email1": "john.due@gmail.com",
+			"mobilePhone": "8858525225",
+			"phoneNumber": "1234795699"
+		},
+		"addressDetails": {
+			"addressLine1": "St Road",
+			"city": "Mumbai",
+			"state": "Test",
+			"zipcode": "300200"
+		}
+	}
+]
